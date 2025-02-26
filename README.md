@@ -8,8 +8,7 @@ _Create and run a GitHub Actions workflow._
 
 ## Step 5: Trigger the workflow
 
-_You've now added a fully functioning workflow to your repository! 	
-:pinched_fingers_light_skin_tone: 
+_You've now added a fully functioning workflow to your repository! 🤌
 
 The shell script in the workflow will run whenever a new pull request is opened.
 
